@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:org.springframework.expression:3.2.1.release">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/org.springframework.expression/3.2.1.release/org.springframework.expression-3.2.1.release.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/org.springframework.expression/3.2.1.release/org.springframework.expression-3.2.1.release-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/org.springframework.expression/3.2.1.release/org.springframework.expression-3.2.1.release-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
